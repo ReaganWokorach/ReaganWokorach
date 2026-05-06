@@ -4,12 +4,14 @@ Currently specializing in Penetration Testing and SOC Analysis through ALX Afric
 
 - **Current Focus:** Web Development (HTML, CSS, JS, PHP) & Cybersecurity.
 - **Learning:** Penetration Testing and Network Security.
+- **Project:** Built [Resume](https://mirriamaloyoadongping.netlify.app/).
 - **Project:** Collaborating on [IT-Online-Service](link-your-project-here).
 - **Reach me:** [LinkedIn](https://linkedin.com) | [Email](mailto:wokorachreagan5030@gmail.com)
+- **Check my:** [Portfolio](https://reaganwokoz.netlify.app/)
 
 ### Tech Stack & Tools
+- **Cybersecurity:** Nmap, Wireshark, Burp Suite, Vulnerability Scanning, SIEM, EDR, SOAR, and threat intelligence tools
 - **Languages:** HTML, CSS, JavaScript, PHP
-- **Cybersecurity:** Nmap, Wireshark, Burp Suite, Vulnerability Scanning
 - **Tools:** Git, GitHub, Labelbox, MS Office
 - **Operating Systems:** Windows, Linux
 
