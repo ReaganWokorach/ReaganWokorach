@@ -1,6 +1,6 @@
 # Hi, I’m Reagan Wokorach
 
-I am a Diploma in IT student at **Cavendish University** with a deep interest in building secure digital solutions. My background includes professional data annotation and facility management, which has honed my attention to detail and analytical thinking.
+Currently specializing in Penetration Testing and SOC Analysis through ALX Africa, I bring years of experience in technical problem-solving and AI data annotation to the security field. Whether I am mapping 3D LiDAR environments or scanning networks for vulnerabilities, my focus remains the same: Precision, Security, and Integrity.
 
 - **Current Focus:** Web Development (HTML, CSS, JS, PHP) & Cybersecurity.
 - **Learning:** Penetration Testing and Network Security.
