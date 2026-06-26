@@ -4,7 +4,7 @@ Currently specializing in Penetration Testing and SOC Analysis through ALX Afric
 
 - **Current Focus:** Web Development (HTML, CSS, JS, PHP) & Cybersecurity.
 - **Learning:** Penetration Testing and Network Security.
-- **Project:** Built [Resume](https://mirriamaloyoadongping.netlify.app/).
+- **Project:** Built [Mirriam's Resume](https://mirriamaloyoadongping.netlify.app/) | [Hope Anchor Tech](https://hopeanchortech.netlify.app/) | [Ker Properties](https://kerproperties.netlify.app/) | [My Resume](https://reagan-wokorach.netlify.app/).
 - **Project:** Collaborating on [IT-Online-Service](link-your-project-here).
 - **Reach me:** [LinkedIn](https://linkedin.com) | [Email](mailto:wokorachreagan5030@gmail.com)
 - **Check my:** [Portfolio](https://reaganwokoz.netlify.app/)
