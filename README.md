@@ -18,13 +18,13 @@ Africa has fewer than 20,000 certified cybersecurity professionals for over a bi
  
 ## Projects
  
-- **[Kica Hope Restoration Mission](https://kicahope.netlify.app/)** Nonprofit website with a secured admin dashboard, Row Level Security enforced at the database level, and role-based, server-verified permissions. *(HTML5, CSS3, JavaScript, Supabase, Netlify)*
+- **[Kica Hope Restoration Mission](https://kicahope.org/)** Nonprofit website with a secured admin dashboard, Row Level Security enforced at the database level, and role-based, server-verified permissions. *(HTML5, CSS3, JavaScript, Supabase, Netlify)*
 - **[Ker Properties](https://kerproperties.netlify.app/)** Real estate platform for buying land and renting houses across Uganda, with searchable listings and a built-in enquiry system. *(HTML5, CSS3, JavaScript, Netlify)*
-- **[Hope Anchor Tech](https://hopeanchortech.netlify.app/)** My own faith-driven tech training organisation based in Gulu, offering computer training, web development, and IT security auditing. *(HTML5, CSS3, JavaScript, Netlify)*
+- **[Anchored Tech](https://anchoredtech.pages.dev/)** My own faith-driven tech training organisation based in Gulu, offering computer training, web development, and IT security auditing. *(HTML5, CSS3, JavaScript, Netlify)*
 - **[Mirriam's Portfolio Page](https://mirriamaloyoadongping.netlify.app/)** Client portfolio site for an educator and data specialist. *(HTML5, CSS3, JavaScript, Netlify)*
 - **[IT-Online-Service](https://github.com/ReaganWokorach)** Capstone project for my Diploma in IT: a full-stack web platform for requesting and managing IT support services. *(HTML5, CSS3, JavaScript, PHP)*
 - **Home Network Security Audit** Self-directed audit using Nmap, Wireshark, and Burp Suite; identified and documented 3 potential vulnerabilities with remediation steps.
-- **[This Portfolio Website](https://reagan-wokorach.netlify.app/)** My professional portfolio, designed and built from scratch with a consistent brand identity. *(HTML5, CSS3, JavaScript, Netlify)*
+- **[My Portfolio Website](https://reagan-wokorach.netlify.app/)** My professional portfolio, designed and built from scratch with a consistent brand identity. *(HTML5, CSS3, JavaScript, Netlify)*
 ---
  
 ## Tech Stack & Tools
